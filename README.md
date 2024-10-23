@@ -1,3 +1,5 @@
+### Nome: Leandro do Nascimento Souza    RM: 558893    1ESA 
+
 # Projeto de Aplicação Web com React
 
 Este projeto é uma aplicação web desenvolvida utilizando React e React Router. O objetivo principal é fornecer uma interface interativa para gerenciar categorias, favoritos e uma estante de livros.
